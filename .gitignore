@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Agregado de manera manual
-/config
 config.py
+pruebas.py
